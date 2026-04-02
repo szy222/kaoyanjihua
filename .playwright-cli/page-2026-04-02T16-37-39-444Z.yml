@@ -1,0 +1,58 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: 设置
+        - heading "调整计划和学习强度" [level=1] [ref=e8]
+        - paragraph [ref=e9]: 修改考试日期和每日学习量后，可以立即重新生成学习计划；学习记录支持一键重置。
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - heading "当前计划信息" [level=2] [ref=e12]
+          - generic [ref=e13]: 已接入本地持久化
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e17]: 计划起始日期
+            - strong [ref=e18]: 2026-04-03
+          - generic [ref=e19]:
+            - generic [ref=e20]: 计划结束日期
+            - strong [ref=e21]: 2026-07-01
+          - generic [ref=e22]:
+            - generic [ref=e23]: 当前计划天数
+            - strong [ref=e24]: 90 天
+      - generic [ref=e25]:
+        - heading "学习参数" [level=2] [ref=e27]
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: 考试日期
+              - textbox "考试日期" [ref=e32]: 2026-07-01
+            - generic [ref=e33]:
+              - generic [ref=e34]: 每日学习总时长（分钟）
+              - spinbutton "每日学习总时长（分钟）" [ref=e35]: "210"
+            - generic [ref=e36]:
+              - generic [ref=e37]: 每日最多任务数
+              - spinbutton "每日最多任务数" [ref=e38]: "12"
+          - generic [ref=e39]:
+            - button "重新生成学习计划" [ref=e40] [cursor=pointer]
+            - button "重置所有学习记录" [ref=e41] [cursor=pointer]
+  - navigation "主导航" [ref=e42]:
+    - link "今日任务" [ref=e43] [cursor=pointer]:
+      - /url: /today
+      - generic [ref=e44]: 今
+      - generic [ref=e45]: 今日任务
+    - link "学习计划" [ref=e46] [cursor=pointer]:
+      - /url: /plan
+      - generic [ref=e47]: 计
+      - generic [ref=e48]: 学习计划
+    - link "知识点库" [ref=e49] [cursor=pointer]:
+      - /url: /library
+      - generic [ref=e50]: 库
+      - generic [ref=e51]: 知识点库
+    - link "进度统计" [ref=e52] [cursor=pointer]:
+      - /url: /stats
+      - generic [ref=e53]: 统
+      - generic [ref=e54]: 进度统计
+    - link "设置" [ref=e55] [cursor=pointer]:
+      - /url: /settings
+      - generic [ref=e56]: 设
+      - generic [ref=e57]: 设置

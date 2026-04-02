@@ -1,0 +1,161 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: 今日任务
+        - heading "今天的学习安排" [level=1] [ref=e8]
+        - paragraph [ref=e9]: 日期：2026年4月3日，先完成最重要的知识点。
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - heading "今日进度" [level=2] [ref=e12]
+          - generic [ref=e13]: 0/10 已完成
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]:
+              - strong [ref=e17]: 0%
+              - generic [ref=e18]: 今日完成率
+            - generic [ref=e19]:
+              - strong [ref=e20]: "10"
+              - generic [ref=e21]: 今日任务数
+            - generic [ref=e22]:
+              - strong [ref=e23]: "200"
+              - generic [ref=e24]: 预计总时长 / 分钟
+          - generic [ref=e27]: 0%
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - heading "今日任务列表" [level=2] [ref=e30]
+          - generic [ref=e31]: 可直接勾选完成
+        - generic [ref=e33]:
+          - article [ref=e34]:
+            - checkbox "切换任务 新类型组学及分析方法 - 三维基因组学分析概况与方法 的完成状态" [ref=e36] [cursor=pointer]
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - generic [ref=e40]: 750 生物医学信息学综合
+                - generic [ref=e41]: 高优先级
+              - heading "新类型组学及分析方法 - 三维基因组学分析概况与方法" [level=3] [ref=e42]
+              - paragraph [ref=e43]: 第四章 生物信息学基础
+              - generic [ref=e44]:
+                - generic [ref=e45]: 初学
+                - generic [ref=e46]: 20 分钟
+                - generic [ref=e47]: 未完成
+          - article [ref=e48]:
+            - checkbox "切换任务 新类型组学及分析方法 - 单细胞组学分析概况与方法 的完成状态" [ref=e50] [cursor=pointer]
+            - generic [ref=e52]:
+              - generic [ref=e53]:
+                - generic [ref=e54]: 750 生物医学信息学综合
+                - generic [ref=e55]: 高优先级
+              - heading "新类型组学及分析方法 - 单细胞组学分析概况与方法" [level=3] [ref=e56]
+              - paragraph [ref=e57]: 第四章 生物信息学基础
+              - generic [ref=e58]:
+                - generic [ref=e59]: 初学
+                - generic [ref=e60]: 20 分钟
+                - generic [ref=e61]: 未完成
+          - article [ref=e62]:
+            - checkbox "切换任务 新类型组学及分析方法 - 空间组学分析概况与方法 的完成状态" [ref=e64] [cursor=pointer]
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - generic [ref=e68]: 750 生物医学信息学综合
+                - generic [ref=e69]: 高优先级
+              - heading "新类型组学及分析方法 - 空间组学分析概况与方法" [level=3] [ref=e70]
+              - paragraph [ref=e71]: 第四章 生物信息学基础
+              - generic [ref=e72]:
+                - generic [ref=e73]: 初学
+                - generic [ref=e74]: 20 分钟
+                - generic [ref=e75]: 未完成
+          - article [ref=e76]:
+            - checkbox "切换任务 生物医学信息政策体系 - 生物医学信息政策体系结构 的完成状态" [ref=e78] [cursor=pointer]
+            - generic [ref=e80]:
+              - generic [ref=e82]: 750 生物医学信息学综合
+              - heading "生物医学信息政策体系 - 生物医学信息政策体系结构" [level=3] [ref=e83]
+              - paragraph [ref=e84]: 第十二章 生物医学信息保障体系
+              - generic [ref=e85]:
+                - generic [ref=e86]: 初学
+                - generic [ref=e87]: 20 分钟
+                - generic [ref=e88]: 未完成
+          - article [ref=e89]:
+            - checkbox "切换任务 生物医学卫生信息组织体系 - 生物医学卫生信息服务组织体系 的完成状态" [ref=e91] [cursor=pointer]
+            - generic [ref=e93]:
+              - generic [ref=e95]: 750 生物医学信息学综合
+              - heading "生物医学卫生信息组织体系 - 生物医学卫生信息服务组织体系" [level=3] [ref=e96]
+              - paragraph [ref=e97]: 第十二章 生物医学卫生信息保障体系
+              - generic [ref=e98]:
+                - generic [ref=e99]: 初学
+                - generic [ref=e100]: 20 分钟
+                - generic [ref=e101]: 未完成
+          - article [ref=e102]:
+            - checkbox "切换任务 生物医学信息政策体系 - 生物医学信息政策制定 的完成状态" [ref=e104] [cursor=pointer]
+            - generic [ref=e106]:
+              - generic [ref=e108]: 750 生物医学信息学综合
+              - heading "生物医学信息政策体系 - 生物医学信息政策制定" [level=3] [ref=e109]
+              - paragraph [ref=e110]: 第十二章 生物医学信息保障体系
+              - generic [ref=e111]:
+                - generic [ref=e112]: 初学
+                - generic [ref=e113]: 20 分钟
+                - generic [ref=e114]: 未完成
+          - article [ref=e115]:
+            - checkbox "切换任务 生物医学卫生信息组织体系 - 生物医学卫生信息相关的第三方组织 的完成状态" [ref=e117] [cursor=pointer]
+            - generic [ref=e119]:
+              - generic [ref=e121]: 750 生物医学信息学综合
+              - heading "生物医学卫生信息组织体系 - 生物医学卫生信息相关的第三方组织" [level=3] [ref=e122]
+              - paragraph [ref=e123]: 第十二章 生物医学卫生信息保障体系
+              - generic [ref=e124]:
+                - generic [ref=e125]: 初学
+                - generic [ref=e126]: 20 分钟
+                - generic [ref=e127]: 未完成
+          - article [ref=e128]:
+            - checkbox "切换任务 计算机的诞生和发展 - 计算机的诞生 的完成状态" [ref=e130] [cursor=pointer]
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - generic [ref=e134]: 804 计算机综合
+                - generic [ref=e135]: 高优先级
+              - heading "计算机的诞生和发展 - 计算机的诞生" [level=3] [ref=e136]
+              - paragraph [ref=e137]: 第一章 计算机与计算思维基础
+              - generic [ref=e138]:
+                - generic [ref=e139]: 初学
+                - generic [ref=e140]: 20 分钟
+                - generic [ref=e141]: 未完成
+          - article [ref=e142]:
+            - checkbox "切换任务 计算机的诞生和发展 - 计算机的分代 的完成状态" [ref=e144] [cursor=pointer]
+            - generic [ref=e146]:
+              - generic [ref=e147]:
+                - generic [ref=e148]: 804 计算机综合
+                - generic [ref=e149]: 高优先级
+              - heading "计算机的诞生和发展 - 计算机的分代" [level=3] [ref=e150]
+              - paragraph [ref=e151]: 第一章 计算机与计算思维基础
+              - generic [ref=e152]:
+                - generic [ref=e153]: 初学
+                - generic [ref=e154]: 20 分钟
+                - generic [ref=e155]: 未完成
+          - article [ref=e156]:
+            - checkbox "切换任务 计算机的诞生和发展 - 计算机的分类 的完成状态" [ref=e158] [cursor=pointer]
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - generic [ref=e162]: 804 计算机综合
+                - generic [ref=e163]: 高优先级
+              - heading "计算机的诞生和发展 - 计算机的分类" [level=3] [ref=e164]
+              - paragraph [ref=e165]: 第一章 计算机与计算思维基础
+              - generic [ref=e166]:
+                - generic [ref=e167]: 初学
+                - generic [ref=e168]: 20 分钟
+                - generic [ref=e169]: 未完成
+  - navigation "主导航" [ref=e170]:
+    - link "今日任务" [ref=e171] [cursor=pointer]:
+      - /url: /today
+      - generic [ref=e172]: 今
+      - generic [ref=e173]: 今日任务
+    - link "学习计划" [ref=e174] [cursor=pointer]:
+      - /url: /plan
+      - generic [ref=e175]: 计
+      - generic [ref=e176]: 学习计划
+    - link "知识点库" [ref=e177] [cursor=pointer]:
+      - /url: /library
+      - generic [ref=e178]: 库
+      - generic [ref=e179]: 知识点库
+    - link "进度统计" [ref=e180] [cursor=pointer]:
+      - /url: /stats
+      - generic [ref=e181]: 统
+      - generic [ref=e182]: 进度统计
+    - link "设置" [ref=e183] [cursor=pointer]:
+      - /url: /settings
+      - generic [ref=e184]: 设
+      - generic [ref=e185]: 设置

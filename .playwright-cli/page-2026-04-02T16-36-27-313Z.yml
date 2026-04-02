@@ -1,0 +1,109 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: 进度统计
+        - heading "整体进度一目了然" [level=1] [ref=e8]
+        - paragraph [ref=e9]: 查看总完成率、分科进度、最近 7 天学习情况，以及累计完成与连续打卡。
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - heading "总体进度" [level=2] [ref=e12]
+          - generic [ref=e13]: 实时更新
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - strong [ref=e17]: 0%
+            - generic [ref=e18]: 总完成率
+          - generic [ref=e19]:
+            - strong [ref=e20]: "0"
+            - generic [ref=e21]: 累计完成任务
+          - generic [ref=e22]:
+            - strong [ref=e23]: "0"
+            - generic [ref=e24]: 连续打卡天数
+      - generic [ref=e25]:
+        - heading "各科进度条" [level=2] [ref=e27]
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]: 750 生物医学信息学综合
+              - strong [ref=e33]: 0%
+            - generic [ref=e34]: 0 / 741 个任务阶段已完成
+          - generic [ref=e35]:
+            - generic [ref=e36]:
+              - generic [ref=e37]: 804 计算机综合
+              - strong [ref=e38]: 0%
+            - generic [ref=e39]: 0 / 300 个任务阶段已完成
+      - generic [ref=e40]:
+        - heading "最近 7 天学习情况" [level=2] [ref=e42]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - generic [ref=e47]: 03-28
+              - strong [ref=e48]: "0"
+            - generic [ref=e49]:
+              - generic [ref=e51]: 03-29
+              - strong [ref=e52]: "0"
+            - generic [ref=e53]:
+              - generic [ref=e55]: 03-30
+              - strong [ref=e56]: "0"
+            - generic [ref=e57]:
+              - generic [ref=e59]: 03-31
+              - strong [ref=e60]: "0"
+            - generic [ref=e61]:
+              - generic [ref=e63]: 04-01
+              - strong [ref=e64]: "0"
+            - generic [ref=e65]:
+              - generic [ref=e67]: 04-02
+              - strong [ref=e68]: "0"
+            - generic [ref=e69]:
+              - generic [ref=e71]: 04-03
+              - strong [ref=e72]: "0"
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]: 03-28
+              - generic [ref=e76]: 0 项
+              - strong [ref=e77]: 0 分钟
+            - generic [ref=e78]:
+              - generic [ref=e79]: 03-29
+              - generic [ref=e80]: 0 项
+              - strong [ref=e81]: 0 分钟
+            - generic [ref=e82]:
+              - generic [ref=e83]: 03-30
+              - generic [ref=e84]: 0 项
+              - strong [ref=e85]: 0 分钟
+            - generic [ref=e86]:
+              - generic [ref=e87]: 03-31
+              - generic [ref=e88]: 0 项
+              - strong [ref=e89]: 0 分钟
+            - generic [ref=e90]:
+              - generic [ref=e91]: 04-01
+              - generic [ref=e92]: 0 项
+              - strong [ref=e93]: 0 分钟
+            - generic [ref=e94]:
+              - generic [ref=e95]: 04-02
+              - generic [ref=e96]: 0 项
+              - strong [ref=e97]: 0 分钟
+            - generic [ref=e98]:
+              - generic [ref=e99]: 04-03
+              - generic [ref=e100]: 0 项
+              - strong [ref=e101]: 0 分钟
+  - navigation "主导航" [ref=e102]:
+    - link "今日任务" [ref=e103] [cursor=pointer]:
+      - /url: /today
+      - generic [ref=e104]: 今
+      - generic [ref=e105]: 今日任务
+    - link "学习计划" [ref=e106] [cursor=pointer]:
+      - /url: /plan
+      - generic [ref=e107]: 计
+      - generic [ref=e108]: 学习计划
+    - link "知识点库" [ref=e109] [cursor=pointer]:
+      - /url: /library
+      - generic [ref=e110]: 库
+      - generic [ref=e111]: 知识点库
+    - link "进度统计" [ref=e112] [cursor=pointer]:
+      - /url: /stats
+      - generic [ref=e113]: 统
+      - generic [ref=e114]: 进度统计
+    - link "设置" [ref=e115] [cursor=pointer]:
+      - /url: /settings
+      - generic [ref=e116]: 设
+      - generic [ref=e117]: 设置
